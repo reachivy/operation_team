@@ -1,0 +1,46 @@
+{
+    "intern1": {
+        "sections": [
+            {
+                "section": 1,
+                "section_name": "Pricing Strategy",
+                "questions": [
+                    {
+                        "question_number": 1,
+                        "display_question_number": 1,
+                        "question": "What factors should be considered when setting a pricing strategy?",
+                        "expected_answer": "When setting a pricing strategy, consider factors like production costs, market demand, competition, customer value perception, and pricing objectives such as profit maximization or market penetration."
+                    },
+                    {
+                        "question_number": 2,
+                        "display_question_number": 2,
+                        "question": "How can dynamic pricing benefit a business?",
+                        "expected_answer": "Dynamic pricing benefits a business by allowing price adjustments based on demand, competition, and customer behavior, which can maximize revenue, improve sales during low demand periods, and enhance competitiveness."
+                    }
+                ]
+            },
+            {
+                "section": 2,
+                "section_name": "Customer Analysis",
+                "questions": [
+                    {
+                        "question_number": 3,
+                        "display_question_number": 1,
+                        "question": "Why is understanding customer needs important in business?",
+                        "expected_answer": "Understanding customer needs is important because it helps tailor products and services, improves customer satisfaction, builds loyalty, and drives business growth by meeting market demands effectively."
+                    },
+                    {
+                        "question_number": 4,
+                        "display_question_number": 2,
+                        "question": "What methods can be used to gather customer feedback?",
+                        "expected_answer": "Methods to gather customer feedback include surveys, interviews, focus groups, online reviews, social media monitoring, and analyzing customer support interactions."
+                    }
+                ]
+            }
+        ],
+        "current_section": 1,
+        "current_question": 1,
+        "answered_questions": [],
+        "scores": []
+    }
+}
